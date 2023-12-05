@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{7EAE76D5-A512-4CA0-AD4E-65883432F3C2}|Default" GitUserInfo="UsingGIT">
+  <MonoDevelop.Ide.ItemProperties.searchTypes PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="searchTypes" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

@@ -1,0 +1,15 @@
+/Users/devinsalgado35/Desktop/ListSearching/searchTypes/bin/Debug/net6.0/searchTypes
+/Users/devinsalgado35/Desktop/ListSearching/searchTypes/bin/Debug/net6.0/searchTypes.deps.json
+/Users/devinsalgado35/Desktop/ListSearching/searchTypes/bin/Debug/net6.0/searchTypes.runtimeconfig.json
+/Users/devinsalgado35/Desktop/ListSearching/searchTypes/bin/Debug/net6.0/searchTypes.dll
+/Users/devinsalgado35/Desktop/ListSearching/searchTypes/bin/Debug/net6.0/searchTypes.pdb
+/Users/devinsalgado35/Desktop/ListSearching/searchTypes/obj/Debug/net6.0/searchTypes.csproj.AssemblyReference.cache
+/Users/devinsalgado35/Desktop/ListSearching/searchTypes/obj/Debug/net6.0/searchTypes.GeneratedMSBuildEditorConfig.editorconfig
+/Users/devinsalgado35/Desktop/ListSearching/searchTypes/obj/Debug/net6.0/searchTypes.AssemblyInfoInputs.cache
+/Users/devinsalgado35/Desktop/ListSearching/searchTypes/obj/Debug/net6.0/searchTypes.AssemblyInfo.cs
+/Users/devinsalgado35/Desktop/ListSearching/searchTypes/obj/Debug/net6.0/searchTypes.csproj.CoreCompileInputs.cache
+/Users/devinsalgado35/Desktop/ListSearching/searchTypes/obj/Debug/net6.0/searchTypes.dll
+/Users/devinsalgado35/Desktop/ListSearching/searchTypes/obj/Debug/net6.0/refint/searchTypes.dll
+/Users/devinsalgado35/Desktop/ListSearching/searchTypes/obj/Debug/net6.0/searchTypes.pdb
+/Users/devinsalgado35/Desktop/ListSearching/searchTypes/obj/Debug/net6.0/searchTypes.genruntimeconfig.cache
+/Users/devinsalgado35/Desktop/ListSearching/searchTypes/obj/Debug/net6.0/ref/searchTypes.dll
