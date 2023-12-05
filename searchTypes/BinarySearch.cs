@@ -69,7 +69,7 @@ namespace searchTypes
                 if (wantedValue == Nums[mid])
                 {
                     Console.WriteLine("Found it! " + mid);
-                    return ++mid;  // Return the int if the wanted value is found
+                    return ++mid;  // Return the int if the wanted value index is found
                 }
                 else if (wantedValue < Nums[mid])
                 {
@@ -82,7 +82,7 @@ namespace searchTypes
                 }
             }
             Console.WriteLine("Couldn't find it");
-            return 0;  // Return 0 if the wanted value is not found
+            return 0;  // Return 0 if the wanted value index is not found
 
         }
 
@@ -103,7 +103,7 @@ namespace searchTypes
                 if (Nums[position] == wantedValue)
                 {
                     Console.WriteLine("Found it! " + position);
-                    return position;  // wanted value is found
+                    return position;  // wanted value index is found
                 }
                 // Search in the right half
                 if (Nums[position] < wantedValue)
@@ -117,7 +117,7 @@ namespace searchTypes
                 }
             }
             Console.WriteLine("Couldn't find it");
-            return 0;  // wanted value not found
+            return 0;  // wanted value index not found
 
             
         }
